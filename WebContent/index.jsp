@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title> Azure Demo </title>
 </head>
 <body>
-	<h1><% out.println("Hello World !!"); %></h1>
+	<h1> Hello World !! </h1>
 </body>
 </html>
